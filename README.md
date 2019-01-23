@@ -19,4 +19,4 @@ This repo is for gaining more experience using Git and Markdown
 
 ## Contributers 
 My name is Sierra King and I am a student at NWMSU studying Computer Science to get a Bachelor of Science degree
-![]()
+![Glacier Bay National Park in Gustavus Alaska](alaska_glacier.jpg)
